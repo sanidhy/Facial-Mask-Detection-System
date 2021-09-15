@@ -205,7 +205,7 @@ message = tk.Label(window, text="Live Face Mask Detection", bg="SpringGreen3", f
                    height=2, font=('times', 30, 'italic bold '))
 message.place(x=200, y=20)
 
-my_name = tk.Label(window, text="©Developed by Sanidhy Saxena ,Ansh Tyagi & Akshat Sodhi", bg="Aqua", fg="black", width=60,
+my_name = tk.Label(window, text="©Developed by Sanidhy Saxena", bg="Aqua", fg="black", width=60,
                    height=1, font=('times', 30, 'italic bold '))
 my_name.place(x=00, y=707)
 
